@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+body {
+    background:  url(https://i.pinimg.com/originals/72/01/ad/7201ad35197bf382423aa7c0ac80f90d.gif);
+    background-size: 100% auto;
+}
+.z {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+   text-align: center;
+   color:#3D2B1F; 
+   font-size:  50px;
+}
+img {
+    width: 20%;
+    height: 100%;
+}
+.iloveicy {
+    background-color:#E75480;
+    color:white;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate( -50%, -50%);
+    font-size: 40px;
+    padding: 30px 60px;
+    border-radius: 50px;
+    border: 1px;
+}
